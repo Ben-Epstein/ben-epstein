@@ -14,9 +14,13 @@ Focused on production NLP use-cases right now and always following the MLOps lan
 
 ---
 
-![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-epstein)
 
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=ben-epstein&show_icons=true&theme=github_dark" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;" />
 <!--
+![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-epstein)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-epstein&layout=compact&theme=github_dark" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;"  />
 **Ben-Epstein/ben-epstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
