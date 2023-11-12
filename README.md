@@ -19,7 +19,9 @@ Focused on production NLP use-cases right now and always following the MLOps lan
 
 <img src="https://github-readme-stats.vercel.app/api?username=ben-epstein&show_icons=true&theme=github_dark" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;" />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ben-epstein&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ben-epstein&theme=dark&background=000000" alt="logo" height="160" align="right" style="margin: 6px; margin-bottom: 20px;" />
+
 
 
 
